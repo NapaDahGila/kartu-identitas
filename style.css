@@ -1,0 +1,16 @@
+body {
+  background-color: #17161d;
+  font-family: Courier New;
+}
+
+.identitas {
+  background-color: #67686f;
+  text-align: center;
+  margin: 25%;
+  padding: 20px;
+  max-width: 300px;
+}
+
+.gambar {
+  max-width: 100%;
+}
